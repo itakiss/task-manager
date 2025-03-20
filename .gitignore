@@ -1,0 +1,5 @@
+.idea/
+task_manager_frontend/node_modules/
+task_manager/target/
+*.log
+*.class
